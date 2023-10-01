@@ -16,4 +16,8 @@
 
 <h3 align="center"> I speak: :ru: :ukraine: :us: :jp: :es: :cn: </h3>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexLightbringer&theme=solarized_dark)
+[![AlexLightbringer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlexLightbringer&bg_color=0000&color=570518&line=9e9e9e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![AlexLightbringer's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AlexLightbringer&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![AlexLightbringer's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=AlexLightbringer&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexLightbringer&theme=dracula)
