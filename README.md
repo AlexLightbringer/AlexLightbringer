@@ -17,4 +17,3 @@
 <h3 align="center"> I speak: :ru: :ukraine: :us: :jp: :es: :cn: </h3>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexLightbringer&theme=solarized_dark)
-![Leetcode Stats](https://leetcard.jacoblin.cool/AlexLightbringer)
