@@ -1,13 +1,13 @@
-<h1 align="center">ℍ𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀'𝕞 𝔸𝕝𝕖𝕩𝕒𝕟𝕕𝕣𝕒!
+<h1 align="center">ℍ𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀'𝕞 𝔸𝕝𝕖𝕩!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%cf2929&lines=Computer+Science+student.)](https://git.io/typing-svg)
 
 <ul class="nav">
     <li>🎓  I'm currently a computer science student.</li>
-    <li>🌱  I'm on track with learning more about the Backend and the Frontend.</li>
+    <li>🌱  I'm on track with learning more about the Backend and the Frontend. Also NLP</li>
     <li>✍️  In my free time, I enjoy strength training, playing videogames, watching TV shows and learning foreign languages. Also I'm a volunteer.</li>
-    <li>💬  Let's have a Meet or Zoom call, feel free to pick a slot on Calendly to talk with me.</li>
+    <li>💬  Let's have a Meet or Zoom call.</li>
 </ul>
 
 <h3 align="center">My toolbox</h3>
