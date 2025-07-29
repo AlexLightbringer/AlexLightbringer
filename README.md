@@ -1,15 +1,27 @@
 <h1 align="center">ℍ𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀'𝕞 𝔸𝕝𝕖𝕩!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2355CDFC&lines=Computer+Science+student.)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7A8B8&lines=Backend+%26+Frontend+explorer.)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&lines=NLP+wizard.)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=55CDFC&center=true&vCenter=true&width=435&lines=Computer+Science+student.;Backend+%26+Frontend+Explorer.;NLP+Curious.;UI+Button+Judger."/>
+</p>
 
-<ul class="nav">
-    <li>🎓  I'm currently a computer science student.</li>
-    <li>🌱  I'm on track with learning more about the Backend and the Frontend. Also NLP.</li>
-    <li>✍️  In my free time, I enjoy strength training, playing videogames, watching TV shows, and learning foreign languages. Also I'm a volunteer.</li>
-    <li>💬  Let's have a Meet or Zoom call.</li>
+<ul align="center" style="list-style:none;padding:0;">
+  <li>
+    <span style="color:#55CDFC;">🎓</span>
+    <span style="color:#F7A8B8;">Currently on a quest: Computer Science student, training my mind like a speedrunner trains their reflexes.</span>
+  </li>
+  <li>
+    <span style="color:#F7A8B8;">🌱</span>
+    <span style="color:#FFF;">Leveling up in Backend & Frontend wizardry. Side quest: NLP magic. Boss battle: Unsmug buttons.</span>
+  </li>
+  <li>
+    <span style="color:#FFF;">✍️</span>
+    <span style="color:#55CDFC;">Free time? Strength training, video games, binge-worthy shows, decoding languages, and volunteering (because XP isn’t just for games).</span>
+  </li>
+  <li>
+    <span style="color:#55CDFC;">💬</span>
+    <span style="color:#F7A8B8;">Summon me for a Meet or Zoom—let’s swap stories, memes, or just existential questions.</span>
+  </li>
 </ul>
 
 ---
@@ -65,7 +77,7 @@
 ---
 
 <h3 align="center">I speak:</h3>
-<p align="center">🇷🇺 🇺🇦 🇺🇸 🇯🇵 🇪🇸 🇨🇳</p>
+<p align="center" style="font-size:2em;">🇷🇺 🇺🇦 🇺🇸 🇯🇵 🇪🇸 🇨🇳</p>
 
 [![AlexLightbringer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlexLightbringer&bg_color=0000&color=570518&line=9e9e9e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
