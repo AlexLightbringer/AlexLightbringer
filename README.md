@@ -1,7 +1,9 @@
 <h1 align="center">ℍ𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀'𝕞 𝔸𝕝𝕖𝕩!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%cf2929&lines=Computer+Science+student.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2355CDFC&lines=Computer+Science+student.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7A8B8&lines=Backend+%26+Frontend+explorer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&lines=NLP+wizard.)](https://git.io/typing-svg)
 
 <ul class="nav">
     <li>🎓  I'm currently a computer science student.</li>
